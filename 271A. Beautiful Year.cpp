@@ -1,6 +1,7 @@
 #include <iostream>
 #include<string>
 using namespace std;
+
 int main()
 {
     int year;
@@ -24,7 +25,6 @@ int main()
                 }
             }
         }
-
         if(distinctYear)
         {
             cout<< year << endl;
