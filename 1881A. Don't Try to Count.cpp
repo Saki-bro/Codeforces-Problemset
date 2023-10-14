@@ -9,7 +9,6 @@ int main()
     while(t--)
     {
 
-
         long long n, m;
         cin >> n >> m;
         string x, s;
