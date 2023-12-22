@@ -10,8 +10,8 @@ void solve()
     int res=0;int pow=1;
     while(n>0)
     {
-        res +=pow*(n%10);
-        n=n/10;
+        res += pow*(n%10);
+        n = n/10;
         if(n!=0 && res>=pow)
         {
             if(res>n)
