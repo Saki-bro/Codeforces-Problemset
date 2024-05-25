@@ -1,4 +1,3 @@
-
 #include<bits/stdc++.h>
 #define int long long
 #define yes cout<< "YES"<< endl
@@ -17,8 +16,6 @@ void solve()
     {
         no;
     }
-
-
 }
 main()
 {
@@ -28,8 +25,5 @@ main()
     {
         solve();
     }
-
     return 0;
 }
-
-
