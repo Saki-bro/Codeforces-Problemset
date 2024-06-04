@@ -10,16 +10,14 @@ void solve()
     if(n>=m && (m-n)%2 == 0)
     {
         yes;
-    }
-    else
+    }else
     {
         no;
     }
 }
 int main()
 {
-    ll t;
-    cin>>t;
+    ll t;cin>>t;
     while(t--)
     {
         solve();
